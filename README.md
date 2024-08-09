@@ -36,12 +36,15 @@ Welcome to the **User Authentication System** repository, a robust and secure so
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/RiyaDv/User-Login-App.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo-name
+   cd Backend
+   ```
+   ```bash
+   cd Fackend
    ```
 
 3. **Install dependencies:**
@@ -56,7 +59,7 @@ Welcome to the **User Authentication System** repository, a robust and secure so
 
 5. **Start the frontend application:**
    ```bash
-   npm run client
+   npm run App
    ```
 
 ---
