@@ -64,6 +64,10 @@ Welcome to the **User Authentication System** repository, a robust and secure so
 
 ---
 
-## **🤝 Contributions & Feedback:**
+## 📚 **Project Structure**
 
-Feel free to contribute or provide feedback. **Pull requests are welcome!** Let's collaborate to make this project even better.
+- **src/components**: Contains reusable components like forms and buttons.
+- **src/pages**: Contains different pages like Home, Login, Register, and Profile.
+- **src/context**: Contains context providers for managing global state.
+- **src/styles**: Custom styling using Tailwind CSS.
+
