@@ -25,11 +25,11 @@ This is the backend service for the User Authentication System built with Node.j
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/RiyaDv/User-Login-App.git
    ```
 2. **Navigate to the backend directory:**
    ```bash
-   cd User-Login-App/backend
+   cd User-Login-App/Backend
    ```
 3. **Install dependencies:**
    ```bash
