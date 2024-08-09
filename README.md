@@ -1,4 +1,4 @@
-# ** User Authentication System with MERN Stack **
+# **User Authentication System with MERN Stack**
 
 Welcome to the **User Authentication System** repository, a robust and secure solution developed using the **MERN stack** (MongoDB, Express.js, React, and Node.js). This project was built as part of my **Full-Stack Developer Internship at Prodigy** and demonstrates advanced user management techniques.
 
